@@ -556,11 +556,12 @@ The following features are explicitly **not** included in the current version:
 
 ## 📞 Contact
 
-**Product Manager:** [Your Name]  
-**Email:** [Your Email]  
+**Product Manager:** Aashrith  
+**Email:** aashrith.career@gmail.com  
 **Slack:** #product-agentic-enterprise  
 **JIRA Project:** CI (Current Implementation)
 
 ---
 
 *This PRD is a living document and will be updated as the product evolves. Last updated: March 8, 2026*
+
