@@ -408,7 +408,7 @@ VALUES ('user-uuid-here', 'staff', 'org-uuid-here');
 4. ✅ Frontend deployed: `[URL_REMOVED]
 5. ✅ MCP Server: 23 tools operational (includes Slack integration)
 
-### Future Development:
+### 
 - [ ] Add authentication UI (login/signup)
 - [ ] Build dashboard with role-based views
 - [ ] Integrate Google Gemini AI for underwriting
