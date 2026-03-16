@@ -14,7 +14,6 @@
 - 🛠️ **17 New MCP Tools** - PC control & desktop automation
 - ✅ **59/59 Tests Passing** - Full CI/CD pipeline
 
-> **Note**: OpenClaw (Swift/iOS) in `services/openclaw/` is a third-party tool, isolated from the core Python/TypeScript enterprise stack.
 
 ---
 
